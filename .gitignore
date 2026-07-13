@@ -1,0 +1,10 @@
+csv/
+*.log
+manifest.csv
+products.csv
+excluded_dark.csv
+failed.csv
+duplicates.csv
+views.csv
+junk_candidates.json
+final_files.txt
